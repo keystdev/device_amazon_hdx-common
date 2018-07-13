@@ -4,7 +4,8 @@
     "target_path": "device/qcom/common"
   },
   {
-    "repository": "android_kernel_amazon_hdx-common",
+    "repository": "kernel_amazon_hdx-common",
     "target_path": "kernel/amazon/hdx-common"
+    "branch": "o8.1"
   }
 ]
